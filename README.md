@@ -3,8 +3,8 @@ Requires python packages: `numpy` and `Biopython`
 
 Installation
 ```
-git clone https://github.com/bjornwallner/DockQ/
-cd DockQ
+!git clone https://github.com/bjornwallner/DockQ/
+%cd DockQ
 make
 ```
 Install (i) `numpy` (a prerequisite to install 'Biopython') and (ii) `Biopython` 
